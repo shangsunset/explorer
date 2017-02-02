@@ -1,11 +1,5 @@
 # Code Challenge (Node v6)
 
-## Run
-
-```
-npm install && npm start
-```
-
 ## Thought process
 
 Based on the description, first thing you realize is that its a graph problem. So you need to traverse the graph and get writings from some nodes(rooms). Because you have multiple dones, the goal is to guide them to traverse the graph asynchronously.

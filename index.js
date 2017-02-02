@@ -1,6 +1,6 @@
 import request from 'request-promise';
 
-const URL = 'http://challenge2.airtime.com:10001';
+const URL = 'http://challenge.xxxxxx.com:10001';
 
 class XCommanderControlPanel {
 
